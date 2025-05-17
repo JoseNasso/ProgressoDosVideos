@@ -57,7 +57,7 @@ p {
 
 #barra1 { width: 100%; }
 #barra2 { width: 100%; }
-#barra3 { width: 1%; }
+#barra3 { width: 3%; }
 
 /* Responsividade extra (opcional) */
 @media (max-width: 500px) {
